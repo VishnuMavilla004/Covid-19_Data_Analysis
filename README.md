@@ -44,7 +44,7 @@ This project performs end-to-end data analysis on COVID-19 data using Python and
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/Dashboard_pic.png)
 
 ---
 
