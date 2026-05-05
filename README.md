@@ -1,5 +1,3 @@
-yg # 🦠 COVID-19 Data Analysis & Visualization
-
 ## 📌 Project Overview
 
 This project performs end-to-end data analysis on COVID-19 data using Python and builds an interactive dashboard using Power BI.
