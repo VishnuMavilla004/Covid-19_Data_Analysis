@@ -6,6 +6,12 @@ This project performs end-to-end data analysis on COVID-19 data using Python and
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard](dashboard/Dashboard_pic.png)
+
+---
+
 ## ⚙️ Tech Stack
 
 * Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -42,11 +48,6 @@ This project performs end-to-end data analysis on COVID-19 data using Python and
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard](dashboard/Dashboard_pic.png)
-
----
 
 ## 🚀 How to Run
 
